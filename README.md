@@ -1,3 +1,2 @@
 my first js project
-making an incremement counter using the first simple parts of javascript.
-there will be more added here later ad i learn more 
+making an incremement counter using javascript this is my first project using javascript.
