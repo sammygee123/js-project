@@ -26,3 +26,7 @@ function decrement2(){
 }
 
 
+function save(){
+    console.log(count)
+}
+
