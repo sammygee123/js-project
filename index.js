@@ -33,12 +33,12 @@ function decrement2(){
 
 function save() {
     let countStr = count + " - "
-    saveEl.innerText = countStr
+    saveEl.textContent += countStr
     console.log(count)
 }
 
 function save2() {
     let countStr = count + " - "
-    saveEl2.innerText = countStr
+    saveEl2.textContent += countStr
     console.log(count)
 }
