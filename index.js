@@ -14,20 +14,20 @@ console.log(saveEl2)
 
 function increment(){
     count = count + 1 
-    countEl.innerText = count
+    countEl.textContent = count
 }
 function decrement(){
     count = count -1 
-    countEl.innerText = count
+    countEl.textContent = count
 }
 
 function increment2(){
     count2 = count2 + 1 
-    countEl2.innerText = count2
+    countEl2.textContent = count2
 }
 function decrement2(){
     count2 = count2 -1 
-    countEl2.innerText = count2
+    countEl2.textContent = count2
 }
 
 
