@@ -34,11 +34,15 @@ function decrement2(){
 function save() {
     let countStr = count + " - "
     saveEl.textContent += countStr
+    countEl.textContent = 0
+    count = 0 
     console.log(count)
 }
 
 function save2() {
-    let countStr = count + " - "
+    let countStr = count2 + " - "
     saveEl2.textContent += countStr
+    countEl2.textContent = 0
+    count2 = 0 
     console.log(count)
 }
