@@ -1,7 +1,7 @@
 body {
     background-image: url("texture.01.jpg");
     background-size: cover;
-    font-family: sans-serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bold;
     text-align: center;
     color: whitesmoke;
@@ -21,7 +21,6 @@ h2 {
 }
 
 button {
-    font-family: ubuntu;
     border:  outset lightgray;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -45,3 +44,6 @@ button {
     background: lightskyblue;
 }
 
+#decrement-btn{
+    background: #e6917c;
+}
