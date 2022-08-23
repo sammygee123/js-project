@@ -19,3 +19,6 @@ button {
     cursor: pointer;
     padding: 5px 8px;
 }
+.nav-links{
+    list-style: none;
+}
