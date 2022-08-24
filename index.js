@@ -28,7 +28,7 @@ function increment2(){
 function decrement2(){
     count2 = count2 -1 
     countEl2.textContent = count2
-}
+} 
 
 
 function save() {
